@@ -153,6 +153,19 @@ nav a:hover, nav a:focus{
     padding: 0;
     margin: 0;
 }
+.presave img{
+    opacity: 0.4;
+}
+.presave{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.presave h2{
+    position: absolute;
+    margin: 5.5rem 1rem;
+    z-index: 1000;
+}
 
 .miembro a, .disco a{
     display: inline-block;
